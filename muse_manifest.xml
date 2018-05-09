@@ -1,0 +1,348 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="augmentedasbury.github.io" resolutions="1x" timestamp="1525884163677">
+  <folder name="css">
+    <file name="site_global.css" crc="4141127257"/>
+    <file name="master_b-master.css" crc="471154125" ref="augmented-ap--history:augmented-ap--news:index:augmented-ap--contact:augmented-ap--about"/>
+    <file name="augmented-ap--history.css" crc="533295328" ref="augmented-ap--history"/>
+    <file name="augmented-ap--news.css" crc="4225010417" ref="augmented-ap--news"/>
+    <file name="index.css" crc="4004070380" ref="index"/>
+    <file name="augmented-ap--contact.css" crc="4019613624" ref="augmented-ap--contact"/>
+    <file name="augmented-ap--about.css" crc="101974192" ref="augmented-ap--about"/>
+  </folder>
+  <folder name="assets">
+    <file name="pressrelease_aap_launch.pdf" crc="76967735" seo="true" mt="1402518829000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>index:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact:augmented-ap--news:augmented-ap--contact:index:augmented-ap--about:augmented-ap--history"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>index:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact:augmented-ap--news:augmented-ap--contact:index:augmented-ap--about:augmented-ap--history"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>index:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact:augmented-ap--news:augmented-ap--contact:index:augmented-ap--about:augmented-ap--history"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>index:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact:augmented-ap--news:augmented-ap--contact:index:augmented-ap--about:augmented-ap--history"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>index:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact:augmented-ap--news:augmented-ap--contact:index:augmented-ap--about:augmented-ap--history"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>index:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact:augmented-ap--news:augmented-ap--contact:index:augmented-ap--about:augmented-ap--history"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>augmented-ap--about:tablet>augmented-ap--about"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4197242738" ref="phone>index"/>
+    <file name="augmented-asbury-park-map-poster.jpg" crc="4233650794" seo="true" ref="phone>index:phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-enter.png" crc="5337016" seo="true" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-enter-1.png" crc="294332287" seo="true" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gray_sand.jpg" crc="390401523" ref="phone>index:phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore:augmented-ap--news:augmented-ap--contact:index:augmented-ap--about:augmented-ap--history">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--news" alt=""/>
+      <caption webpage="augmented-ap--history" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--contact" alt=""/>
+      <caption webpage="augmented-ap--contact" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="u3721.png" crc="3759246302" ref="phone>augmented-ap--about"/>
+    <file name="u3721-r.png" crc="4026287889" ref="phone>augmented-ap--about"/>
+    <file name="u3721-a.png" crc="4026287889" ref="phone>augmented-ap--about"/>
+    <file name="u2823.png" crc="222869634" ref="phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore"/>
+    <file name="u2823-r.png" crc="360328464" ref="phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore"/>
+    <file name="u3104.png" crc="3967900589" ref="phone>augmented-ap--about"/>
+    <file name="u3104-r.png" crc="360791104" ref="phone>augmented-ap--about"/>
+    <file name="u3104-m.png" crc="4222596947" ref="phone>augmented-ap--about"/>
+    <file name="augmented-asbury-park-tedxnavesink.png" crc="228134001" ref="phone>augmented-ap--about:tablet>augmented-ap--about">
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+    </file>
+    <file name="carousel318x200.jpg" crc="4052120844" seo="true" ref="phone>augmented-ap--about">
+      <caption webpage="augmented-ap--about" alt=""/>
+    </file>
+    <file name="carousel_inside.jpg" crc="388777077" seo="true" ref="phone>augmented-ap--about:tablet>augmented-ap--about:augmented-ap--about">
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+    </file>
+    <file name="augmented_carousel_build.jpg" crc="192878665" seo="true" ref="phone>augmented-ap--about:tablet>augmented-ap--about:augmented-ap--about">
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+    </file>
+    <file name="augmented_carousel_horse_build.jpg" crc="373714434" seo="true" ref="phone>augmented-ap--about:tablet>augmented-ap--about:augmented-ap--about">
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+    </file>
+    <file name="augmented_carousel_on_site.png" crc="357105110" seo="true" ref="phone>augmented-ap--about:tablet>augmented-ap--about:augmented-ap--about">
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-fish-1.png" crc="3957094565" seo="true" ref="phone>augmented-ap--about:phone>augmented-ap--explore:tablet>augmented-ap--explore:tablet>augmented-ap--about:index:augmented-ap--about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="u3144.png" crc="4170181079" ref="phone>augmented-ap--about"/>
+    <file name="u3144-r.png" crc="3931145053" ref="phone>augmented-ap--about"/>
+    <file name="u3144-m.png" crc="339931563" ref="phone>augmented-ap--about"/>
+    <file name="u3144-a.png" crc="339931563" ref="phone>augmented-ap--about"/>
+    <file name="augmented-asbury-park-fish.png" crc="400591201" seo="true" ref="phone>augmented-ap--about:phone>augmented-ap--explore:tablet>augmented-ap--explore:tablet>augmented-ap--about:index:augmented-ap--about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="u2850.png" crc="3894714848" ref="phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore"/>
+    <file name="u2850-r.png" crc="3920161658" ref="phone>augmented-ap--about:phone>augmented-ap--contact:phone>augmented-ap--explore"/>
+    <file name="u3741.png" crc="3759246302" ref="phone>augmented-ap--contact"/>
+    <file name="u3741-r.png" crc="4026287889" ref="phone>augmented-ap--contact"/>
+    <file name="u3741-a.png" crc="4026287889" ref="phone>augmented-ap--contact"/>
+    <file name="postcard back 2-u2985.png" crc="3926960131" ref="phone>augmented-ap--contact"/>
+    <file name="u3695.png" crc="418837468" ref="phone>augmented-ap--explore"/>
+    <file name="u3695-r.png" crc="135828828" ref="phone>augmented-ap--explore"/>
+    <file name="u3695-a.png" crc="135828828" ref="phone>augmented-ap--explore"/>
+    <file name="augmented-asbury-park-palace-amusements.jpg" crc="4094746137" seo="true" ref="phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-carousel-poster.jpg" crc="294578399" seo="true" ref="phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-skyride.jpg" crc="3957514488" seo="true" ref="phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-morro-castle-poster.png" crc="186782705" seo="true" ref="phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-casino-poster.jpg" crc="26722878" seo="true" ref="phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-old-casino.jpg" crc="3904028339" seo="true" ref="phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-monterey-hotel-poster.jpg" crc="172944221" seo="true" ref="phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-natatorium.jpg" crc="4224463505" seo="true" ref="phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="augmented-asbury-park-7th-avenue-pavilion.jpg" crc="264255065" seo="true" ref="phone>augmented-ap--explore:tablet>augmented-ap--explore:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+      <caption webpage="augmented-ap--explore" alt=""/>
+    </file>
+    <file name="u2989.png" crc="4170181079" ref="phone>augmented-ap--explore"/>
+    <file name="u2989-r.png" crc="3931145053" ref="phone>augmented-ap--explore"/>
+    <file name="u2989-m.png" crc="339931563" ref="phone>augmented-ap--explore"/>
+    <file name="u2989-a.png" crc="339931563" ref="phone>augmented-ap--explore"/>
+    <file name="augmented-asbury-park-map-poster-500px.jpg" crc="3782457374" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4633.png" crc="418837468" ref="tablet>augmented-ap--explore"/>
+    <file name="u4633-r.png" crc="135828828" ref="tablet>augmented-ap--explore"/>
+    <file name="u4633-a.png" crc="135828828" ref="tablet>augmented-ap--explore"/>
+    <file name="u4865.png" crc="418837468" ref="tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="u4865-r.png" crc="135828828" ref="tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="u4865-a.png" crc="135828828" ref="tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="u4585.png" crc="222869634" ref="tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="u4585-r.png" crc="360328464" ref="tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="u4618.png" crc="4170181079" ref="tablet>augmented-ap--explore"/>
+    <file name="u4618-r.png" crc="3931145053" ref="tablet>augmented-ap--explore"/>
+    <file name="u4618-m.png" crc="339931563" ref="tablet>augmented-ap--explore"/>
+    <file name="u4618-a.png" crc="339931563" ref="tablet>augmented-ap--explore"/>
+    <file name="u4587.png" crc="3894714848" ref="tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="u4587-r.png" crc="3920161658" ref="tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+    <file name="u4718.png" crc="3967900589" ref="tablet>augmented-ap--about"/>
+    <file name="u4718-r.png" crc="360791104" ref="tablet>augmented-ap--about"/>
+    <file name="u4718-m.png" crc="4222596947" ref="tablet>augmented-ap--about"/>
+    <file name="augmented-carousel-blue-ribbon.gif" crc="4215201442" seo="true" ref="tablet>augmented-ap--about:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+    </file>
+    <file name="u4691.png" crc="418837468" ref="tablet>augmented-ap--about"/>
+    <file name="u4691-r.png" crc="135828828" ref="tablet>augmented-ap--about"/>
+    <file name="u4691-a.png" crc="135828828" ref="tablet>augmented-ap--about"/>
+    <file name="carousel.jpg" crc="488234721" seo="true" ref="tablet>augmented-ap--about:augmented-ap--about">
+      <caption webpage="augmented-ap--about" alt=""/>
+      <caption webpage="augmented-ap--about" alt=""/>
+    </file>
+    <file name="u4739.png" crc="4170181079" ref="tablet>augmented-ap--about"/>
+    <file name="u4739-r.png" crc="3931145053" ref="tablet>augmented-ap--about"/>
+    <file name="u4739-m.png" crc="339931563" ref="tablet>augmented-ap--about"/>
+    <file name="u4739-a.png" crc="4170181079" ref="tablet>augmented-ap--about"/>
+    <file name="postcard back 2-u4804.png" crc="329467112" ref="tablet>augmented-ap--contact"/>
+    <file name="u4774.png" crc="418837468" ref="tablet>augmented-ap--contact"/>
+    <file name="u4774-r.png" crc="135828828" ref="tablet>augmented-ap--contact"/>
+    <file name="u4774-a.png" crc="135828828" ref="tablet>augmented-ap--contact"/>
+    <file name="u4291.png" crc="222869634" ref="augmented-ap--news"/>
+    <file name="u4291-r.png" crc="360328464" ref="augmented-ap--news"/>
+    <file name="u4315.png" crc="222869634" ref="augmented-ap--contact"/>
+    <file name="u4315-r.png" crc="360328464" ref="augmented-ap--contact"/>
+    <file name="postcard back 2-u1537.png" crc="137598503" ref="augmented-ap--contact"/>
+    <file name="aap_logo_2.png" crc="4112501325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u734.png" crc="3866363087" ref="index"/>
+    <file name="u734-r.png" crc="4267569736" ref="index"/>
+    <file name="tedxnavesink_button.jpg" crc="4135438780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2324.png" crc="172499693" ref="index"/>
+    <file name="u2324-r.png" crc="3781222659" ref="index"/>
+    <file name="u2324-m.png" crc="4149177895" ref="index"/>
+    <file name="anchor.png" crc="437464425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u817.png" crc="4170181079" ref="index"/>
+    <file name="u817-r.png" crc="3931145053" ref="index"/>
+    <file name="u817-m.png" crc="339931563" ref="index"/>
+    <file name="u817-a.png" crc="339931563" ref="index"/>
+    <file name="u984.png" crc="4170181079" ref="index"/>
+    <file name="u984-r.png" crc="3931145053" ref="index"/>
+    <file name="u984-m.png" crc="339931563" ref="index"/>
+    <file name="u984-a.png" crc="339931563" ref="index"/>
+    <file name="u1133.png" crc="165753957" ref="index"/>
+    <file name="u1133-r.png" crc="482218017" ref="index"/>
+    <file name="u1133-m.png" crc="235117234" ref="index"/>
+    <file name="u1142.png" crc="165753957" ref="index"/>
+    <file name="u1142-r.png" crc="482218017" ref="index"/>
+    <file name="u1142-m.png" crc="235117234" ref="index"/>
+    <file name="u3767.png" crc="165753957" ref="index"/>
+    <file name="u3767-r.png" crc="482218017" ref="index"/>
+    <file name="u3767-m.png" crc="235117234" ref="index"/>
+    <file name="u3769.png" crc="165753957" ref="index"/>
+    <file name="u3769-r.png" crc="482218017" ref="index"/>
+    <file name="u3769-m.png" crc="235117234" ref="index"/>
+    <file name="u1145.png" crc="165753957" ref="index"/>
+    <file name="u1145-r.png" crc="482218017" ref="index"/>
+    <file name="u1145-m.png" crc="235117234" ref="index"/>
+    <file name="u1147.png" crc="165753957" ref="index"/>
+    <file name="u1147-r.png" crc="482218017" ref="index"/>
+    <file name="u1147-m.png" crc="235117234" ref="index"/>
+    <file name="u3786.png" crc="165753957" ref="index"/>
+    <file name="u3786-r.png" crc="482218017" ref="index"/>
+    <file name="u3786-m.png" crc="235117234" ref="index"/>
+    <file name="u3788.png" crc="165753957" ref="index"/>
+    <file name="u3788-r.png" crc="482218017" ref="index"/>
+    <file name="u3788-m.png" crc="235117234" ref="index"/>
+    <file name="u3804.png" crc="165753957" ref="index"/>
+    <file name="u3804-r.png" crc="482218017" ref="index"/>
+    <file name="u3804-m.png" crc="235117234" ref="index"/>
+    <file name="u3806.png" crc="165753957" ref="index"/>
+    <file name="u3806-r.png" crc="482218017" ref="index"/>
+    <file name="u3806-m.png" crc="235117234" ref="index"/>
+    <file name="u1151.png" crc="165753957" ref="index"/>
+    <file name="u1151-r.png" crc="482218017" ref="index"/>
+    <file name="u1151-m.png" crc="235117234" ref="index"/>
+    <file name="u1154.png" crc="165753957" ref="index"/>
+    <file name="u1154-r.png" crc="482218017" ref="index"/>
+    <file name="u1154-m.png" crc="235117234" ref="index"/>
+    <file name="u3798.png" crc="165753957" ref="index"/>
+    <file name="u3798-r.png" crc="482218017" ref="index"/>
+    <file name="u3798-m.png" crc="235117234" ref="index"/>
+    <file name="u3800.png" crc="165753957" ref="index"/>
+    <file name="u3800-r.png" crc="482218017" ref="index"/>
+    <file name="u3800-m.png" crc="235117234" ref="index"/>
+    <file name="u1157.png" crc="165753957" ref="index"/>
+    <file name="u1157-r.png" crc="482218017" ref="index"/>
+    <file name="u1157-m.png" crc="235117234" ref="index"/>
+    <file name="u1159.png" crc="165753957" ref="index"/>
+    <file name="u1159-r.png" crc="482218017" ref="index"/>
+    <file name="u1159-m.png" crc="235117234" ref="index"/>
+    <file name="u3822.png" crc="165753957" ref="index"/>
+    <file name="u3822-r.png" crc="482218017" ref="index"/>
+    <file name="u3822-m.png" crc="235117234" ref="index"/>
+    <file name="u3824.png" crc="165753957" ref="index"/>
+    <file name="u3824-r.png" crc="482218017" ref="index"/>
+    <file name="u3824-m.png" crc="235117234" ref="index"/>
+    <file name="u3828.png" crc="165753957" ref="index"/>
+    <file name="u3828-r.png" crc="482218017" ref="index"/>
+    <file name="u3828-m.png" crc="235117234" ref="index"/>
+    <file name="u1165.png" crc="165753957" ref="index"/>
+    <file name="u1165-r.png" crc="482218017" ref="index"/>
+    <file name="u1165-m.png" crc="235117234" ref="index"/>
+    <file name="u891.png" crc="4170181079" ref="index"/>
+    <file name="u891-r.png" crc="3931145053" ref="index"/>
+    <file name="u891-m.png" crc="339931563" ref="index"/>
+    <file name="u891-a.png" crc="339931563" ref="index"/>
+    <file name="u4243.png" crc="222869634" ref="augmented-ap--about"/>
+    <file name="u4243-r.png" crc="360328464" ref="augmented-ap--about"/>
+    <file name="u1791.png" crc="4170181079" ref="augmented-ap--about"/>
+    <file name="u1791-r.png" crc="3931145053" ref="augmented-ap--about"/>
+    <file name="u1791-m.png" crc="339931563" ref="augmented-ap--about"/>
+    <file name="u1791-a.png" crc="4170181079" ref="augmented-ap--about"/>
+    <file name="u4267.png" crc="222869634" ref="augmented-ap--history"/>
+    <file name="u4267-r.png" crc="360328464" ref="augmented-ap--history"/>
+    <file name="ap_boardwalk.jpg" crc="3960474006" seo="true" ref="augmented-ap--history">
+      <caption webpage="augmented-ap--history" alt=""/>
+    </file>
+    <file name="ap_boardwalk_2.jpg" crc="4288906799" seo="true" ref="augmented-ap--history">
+      <caption webpage="augmented-ap--history" alt=""/>
+    </file>
+    <file name="ap_boardwalk_3.jpg" crc="313328219" seo="true" ref="augmented-ap--history">
+      <caption webpage="augmented-ap--history" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_promo.css" crc="303375159" ref="tablet>index"/>
+      <file name="master_tablet-master.css" crc="51269228" ref="tablet>augmented-ap--explore:tablet>augmented-ap--about:tablet>augmented-ap--contact"/>
+      <file name="augmented-ap--explore.css" crc="390215198" ref="tablet>augmented-ap--explore"/>
+      <file name="augmented-ap--about.css" crc="4112634575" ref="tablet>augmented-ap--about"/>
+      <file name="augmented-ap--contact.css" crc="4193933505" ref="tablet>augmented-ap--contact"/>
+      <file name="index.css" crc="51693467" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4285515675" seo="true" mt="1484275124860" redirect="true"/>
+    <file name="augmented-ap--explore.html" crc="3906435978" seo="true" mt="1498312008851" redirect="true"/>
+    <file name="augmented-ap--about.html" crc="78533299" seo="true" mt="1498313403231" redirect="true"/>
+    <file name="augmented-ap--contact.html" crc="452009888" seo="true" mt="1484275684036" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_promo.css" crc="97688891" ref="phone>index"/>
+      <file name="master_mobile-master.css" crc="4182687829" ref="phone>augmented-ap--contact:phone>augmented-ap--explore:phone>augmented-ap--about"/>
+      <file name="augmented-ap--contact.css" crc="200636947" ref="phone>augmented-ap--contact"/>
+      <file name="augmented-ap--explore.css" crc="3842802477" ref="phone>augmented-ap--explore"/>
+      <file name="augmented-ap--about.css" crc="3776012340" ref="phone>augmented-ap--about"/>
+      <file name="index.css" crc="204634050" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4274610922" seo="true" mt="1484275347905" redirect="true"/>
+    <file name="augmented-ap--about.html" crc="3847007520" seo="true" mt="1498313393874" redirect="true"/>
+    <file name="augmented-ap--contact.html" crc="4091897028" seo="true" mt="1484275270445" redirect="true"/>
+    <file name="augmented-ap--explore.html" crc="511373953" seo="true" mt="1484275458000" redirect="true"/>
+  </folder>
+  <file name="augmented-ap--news.html" crc="4227465821" seo="true" mt="1525876547322" redirect="true"/>
+  <file name="augmented-ap--contact.html" crc="3877407035" seo="true" mt="1484275110330" redirect="true"/>
+  <file name="index.html" crc="263455315" seo="true" mt="1498313442950" redirect="true"/>
+  <file name="augmented-ap--about.html" crc="286332660" seo="true" mt="1503969531881" redirect="true"/>
+  <file name="augmented-ap--history.html" crc="26205246" seo="true" mt="1484275100281" redirect="true"/>
+</manifest>
